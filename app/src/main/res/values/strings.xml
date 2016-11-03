@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RECycle</string>
+    <string name="title">Titles</string>
+    <string name="description">Contrary to popular belief</string>
+    <string name="itemdate">Item Title value goes here as of now..</string>
+    <string name="releaseDate">2014-10-10</string>
+</resources>
